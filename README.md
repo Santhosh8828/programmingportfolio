@@ -1,4 +1,4 @@
-![pikachu](https//www.pngwing.com/en/free-png-bckju)
+![pikachu](https://www.pngwing.com/en/free-png-bckju)
 
 # Santhosh R Programming Portfolio 2024-25
 *Typing at 46WPM
