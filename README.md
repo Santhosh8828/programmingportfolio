@@ -1,4 +1,4 @@
-![pikachu](https//www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dpikachu&psig=AOvVaw2H-8osyaq5rKSBn-iQFryW&ust=1724177682257000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjirMnUgYgDFQAAAAAdAAAAABAh)
+![pikachu](https//w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-thumbnail.png)
 # Santhosh R Programming Portfolio 2024-25
 *Typing at 46WPM
 ## Term 1
