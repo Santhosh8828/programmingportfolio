@@ -6,7 +6,7 @@ Projected graduation in 2028
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images
-![]()
+![Running Application](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/etch.png?raw=true)
 []()
 
 ## Term 2
