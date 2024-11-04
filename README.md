@@ -19,7 +19,7 @@ Project with an opperating number line that represents Celsius to Farenheit and 
 
 ### Grading-App
 Project with a functioning number line that shows the grade scales and what letter grade you recieve from that grading scale.
-![Running Application]()
+![Running Application](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/grading.png?raw=true)
 
 ## Term 2
 ### Calculator
