@@ -17,6 +17,10 @@ Project with an opperating number line that represents Celsius to Farenheit and 
 
 [Source Code](https://github.com/Santhosh8828/programmingportfolio/blob/main/src/term1/TempConverter/TempConverter.pde)
 
+### Grading-App
+Project with a functioning number line that shows the grade scales and what letter grade you recieve from that grading scale.
+![]()
+
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with operating buttons and UI.
