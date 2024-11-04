@@ -10,3 +10,5 @@ Graphics project with keypress drawing controls with the ability to save images
 []()
 
 ## Term 2
+### Calculator
+Object oriented graphical calculator with operating buttons and UI.
