@@ -7,7 +7,7 @@ Projected graduation in 2028
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images
 ![Running Application](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/etch.png?raw=true)
-[](https://github.com/Santhosh8828/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
+[Source Code](https://github.com/Santhosh8828/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 
 ## Term 2
 ### Calculator
