@@ -6,6 +6,8 @@
 *Projected graduation in 2028
 
 *Typing at 46WPM
+
+*Certifications: Finished 1st quarter of computer programming 1
 ## Term 1
 
 
