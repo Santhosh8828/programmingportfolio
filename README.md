@@ -25,6 +25,11 @@ Project with an opperating number line that represents Celsius to Farenheit and 
 
 [Source Code](https://github.com/Santhosh8828/programmingportfolio/blob/main/src/term1/TempConverter/TempConverter.pde)
 
+### Timeline-Project
+project with clickable information on the hsitoy of computers and once clicked returns a description of the computers history
+![Running Application]()
+
+[Source code]()
 ### Grading-App
 Project with a functioning number line that shows the grade scales and what letter grade you recieve from that grading scale.
 ![Running Application](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/grading.png?raw=true)
