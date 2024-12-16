@@ -8,6 +8,9 @@
 *Typing at 46WPM
 
 *Certifications: Finished 1st quarter of computer programming 1
+
+* passed the state certification test
+  ![Image of score]()
 ## Term 1
 
 
