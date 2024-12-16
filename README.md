@@ -27,7 +27,7 @@ Project with an opperating number line that represents Celsius to Farenheit and 
 
 ### Timeline-Project
 project with clickable information on the hsitoy of computers and once clicked returns a description of the computers history
-![Running Application]()
+![Running Application](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/timeline.png)
 
 [Source code](https://github.com/Santhosh8828/programmingportfolio/blob/579f06885ab9321eba1751e467a667afb5b2e155/src/term1/Timeline_Project/Timeline_Project.pde)
 ### Grading-App
