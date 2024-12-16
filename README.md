@@ -10,7 +10,7 @@
 *Certifications: Finished 1st quarter of computer programming 1
 
 * passed the state certification test
-  ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/Exam%20summary.pdf)
+  ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/0fc8f0093fa0e4c248ec012f3895127e5fbac966/images/Screenshot%202024-12-16%20at%2012.10.44%20PM.png)
 ## Term 1
 
 
