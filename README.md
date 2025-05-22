@@ -2,12 +2,12 @@
 
 # Santhosh Ramanathan Programming Portfolio 2024-25
 *contact info: 9718544@graniteschools.org
-LOLOLOLOL
+
 *Projected graduation in 2028
 
 *Typing at 46WPM
 
-*Certifications: Finished 1st quarter of computer programming 1
+*Certifications: Certified in programming 1 and programming 2 Java.
 
 * passed the state certification test
   ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/0fc8f0093fa0e4c248ec012f3895127e5fbac966/images/Screenshot%202024-12-16%20at%2012.10.44%20PM.png)
