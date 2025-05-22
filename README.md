@@ -16,10 +16,10 @@
 
   ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/CP2JavaCertificate.png)
 ## Term 1
-
+* These are all of my personal projects that i have done and they are all of the oneswe have completed in class all from programming 1 to proramming 2.
 
 ### Etch-A-Sketch
-Graphics project with keypress drawing controls with the ability to save images
+Graphics project with keypress drawing controls with the ability to save images and made through processing using java.
 ![Running Application](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/etch.png?raw=true)
 [Source Code](https://github.com/Santhosh8828/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 
