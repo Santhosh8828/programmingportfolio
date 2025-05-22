@@ -5,12 +5,12 @@
 
 *Projected graduation in 2028
 
-*Typing at 46WPM
+*Typing at 46 WPM
 
 *Certifications: Certified in programming 1 and programming 2 Java.
+  ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/CP1Certificate.png)
 
-* passed the state certification test
-  ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/0fc8f0093fa0e4c248ec012f3895127e5fbac966/images/Screenshot%202024-12-16%20at%2012.10.44%20PM.png)
+  ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/CP2JavaCertificate.png)
 ## Term 1
 
 
@@ -48,7 +48,7 @@ A OOP space game with collision detection and graphics.
 ![Space game](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 
 [Source Code]
-(https://github.com/Santhosh8828/programmingportfolio/tree/main/src/term2/SpaceGame%204%203 )
+(https://github.com/Santhosh8828/programmingportfolio/tree/main/src/term2/SpaceGame%204%203)
 
 ##Term 3
 ### ShapeTester
