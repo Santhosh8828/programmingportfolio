@@ -7,7 +7,11 @@
 
 *Typing at 46 WPM
 
+* I have not done any tech based career or CTSO's, or volunteering for anything related to the field.
+
 *Certifications: Certified in programming 1 and programming 2 Java.
+
+
   ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/CP1Certificate.png)
 
   ![Image of score](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/CP2JavaCertificate.png)
