@@ -2,7 +2,7 @@
 
 # Santhosh Ramanathan Programming Portfolio 2024-25
 *contact info: 9718544@graniteschools.org
-
+LOLOLOLOL
 *Projected graduation in 2028
 
 *Typing at 46WPM
