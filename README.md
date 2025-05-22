@@ -62,6 +62,11 @@ A OOP space game with collision detection and graphics.
 [Source Code]
 (https://github.com/Santhosh8828/programmingportfolio/blob/main/src/ShapeTester-2.java/ShapeTester.java)
 ### Group Projects: CSHARP#
+* CHSHARP is OOP program that let's the user use keyPress and mousePress to emit sounds from instruments that they can select. Also lets the user use instrument related tools such as metronomes to help the user create a optimal song.
+
+* The role that I played during the creation of the project was to make the Drumset Class, make basic instrcutions for all instruments , and create buttons for the sounds that were recordorded.
+  - We used processing to create this program as we intended to use graphics making processing a optimal choice. Also we implmented the minim and sound library which lest us add our own recorded sounds to our program and add cool effects to the sounds.
+  - The outcome of the project was well but not as good as we expected because we always thought about so many ideas without implementing them making time be wasted bu we did add most of the important aspects we wanted such as multiple instrumnets, metronome, a basic setting page, and pixel themed GUI.
 ![Running Application Image one](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/Drumset.png)
 ![Running Application Image two](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/Guitar.png)
 ![Running Application Image three](https://github.com/Santhosh8828/programmingportfolio/blob/main/images/selectionScreen.png)
